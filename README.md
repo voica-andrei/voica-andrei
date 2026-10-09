@@ -33,6 +33,5 @@ documenting my projects.
 
 ### 📫 Connect With Me
 
-- LinkedIn: Add your profile link here
-- Email: Add your contact email here
+- Email: voica.andrei64@gmail.com
   
